@@ -40,6 +40,7 @@ All of the files you need to edit are inside of the public/src/ directory.
 
 While working on this project you should:
 
+
 Use well-named variables, in particular avoiding any single letter variables that lack meaning.
 Use native array methods like .find(), .filter(), .map(), and .reduce().
 Make use of both function declarations and arrow functions.
